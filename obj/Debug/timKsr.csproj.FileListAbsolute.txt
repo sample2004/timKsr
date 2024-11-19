@@ -1,0 +1,9 @@
+D:\Work\Site\timKsr\timKsr\obj\Debug\timKsr.csproj.AssemblyReference.cache
+D:\Work\Site\timKsr\timKsr\obj\Debug\timKsr.csproj.CoreCompileInputs.cache
+D:\Work\Site\timKsr\timKsr\bin\Debug\timKsr.dll
+D:\Work\Site\timKsr\timKsr\bin\Debug\timKsr.pdb
+D:\Work\Site\timKsr\timKsr\bin\Debug\Newtonsoft.Json.dll
+D:\Work\Site\timKsr\timKsr\bin\Debug\Newtonsoft.Json.xml
+D:\Work\Site\timKsr\timKsr\obj\Debug\timKsr.csproj.Up2Date
+D:\Work\Site\timKsr\timKsr\obj\Debug\timKsr.dll
+D:\Work\Site\timKsr\timKsr\obj\Debug\timKsr.pdb
