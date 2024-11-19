@@ -44,7 +44,7 @@ namespace timKsr
                     try
                     {
                         // Отправляем запрос к API
-                        string apiUrl = $"http://localhost:3001/ksr/{ksrCode}";
+                        string apiUrl = $"https://tim-ksr.ru/ksr/{ksrCode}";
                         HttpResponseMessage response = httpClient.GetAsync(apiUrl).Result;
 
                         if (!response.IsSuccessStatusCode)
